@@ -18,5 +18,5 @@ We’re always happy to have bits like these, tools can be used for years to com
 ##Money##
 If you like what we’re doing and want to help us on our way, then please stop by on a Wednesday evening or come to one of our Workshops (check our calendar) you can meet everyone, have a cup of coffee and drop some money in our donation tin.
 
-##[Bitcoin](/bitcoin)##
+##[Bitcoin](bitcoin)##
 Our bitcoin address is: **1NQjDPnhtct2ashB7W6xcdpCK1QiArwHay**
