@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Chelmsford Makerspace'
+title: 'Home'
 ---
 
 ![Reprap 3D printing](http://chelmsfordmakerspace.co.uk/wp-content/uploads/2012/05/Untitled-11.png)  
@@ -15,7 +15,6 @@ We hold meetings every Tuesday from 7:30pm – 10:00pm at the [Galleywood Scout 
 To get involved, join the [mailing list](https://groups.google.com/forum/#!forum/chelmsford_makerspace), or follow us on [Twitter](http://www.twitter.com/cm_makerspace).
 
 These are test links to blogs.
-[News](/news/index.html)
 [blog2](/blog2/index.html)
 [blog3](/blog3/index.html)
 [blog4](/blog4/index.html)
