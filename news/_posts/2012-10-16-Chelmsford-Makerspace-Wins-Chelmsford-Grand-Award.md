@@ -2,7 +2,7 @@
 layout: post
 category: News
 title: 'Chelmsford Makerspace Wins Chelmsford Grand Award'
-date: 2012-10-16 00:00
+date: 2012-10-16 00:00:00 UTC
 ---
 
 Earlier this year we attended an event at Anglia Ruskin University called [City Camp Chelmsford](http://citycampchelmsford.wordpress.com/), this was an unconference about how we could go about making Chelmsford a better and safer place.
