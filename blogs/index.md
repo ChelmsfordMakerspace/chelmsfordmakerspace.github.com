@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All Pages 
+title: 'Member Blogs' 
 header: Pages
 group: navigation
 ---
