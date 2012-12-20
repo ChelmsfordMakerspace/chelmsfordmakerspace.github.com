@@ -9,11 +9,9 @@
 <body>
 	<div class="top"></div>
 	<div class="pagecontainer">
-	<div class="header">
 		<a href="/">
-			<img src="/img/banner.png" width="250px" alt="Chelmsford Makerspace logo">
+			<a href="/" title="Chelmsford Makerspace"><div class="header"></div></a>
 		</a>
-	</div>
 	<div class="nav">
 	<div class="social">
 		<a href="https://www.facebook.com/ChelmsfordHackerspace">
@@ -33,14 +31,13 @@
 		</a>
 </div>
     <div id="text-2" class="widget widget_text">
-    <div class="textwidget"><ul>
-<li><a href="/about">About</a></li>
-<li><a href="/news">News</a></li>
-<li><a href="/membership">Become a Member</a></li>
-<li><a href="http://chelmsfordmakerspace.co.uk/wiki">Wiki</a></li>
-<li><a href="/calendar">Calendar</a></li>
-<li><a href="/donate">Donate</a></li>
-</ul></div>
+    <div class="textwidget">
+    	<ul>
+			{% assign pages_list = site.pages %}  
+			{% assign group = 'navigation' %}
+  			{% include pages_list %}
+		</ul>
+</div>
 
 </div></div>
 

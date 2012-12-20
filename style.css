@@ -70,10 +70,24 @@ margin-right:auto;
 margin-bottom:25px;
 }
 
-.header{
-margin-top:20px;
-padding-left:none;
+.header and (-webkit-min-device-pixel-ratio: 2), screen and (max--moz-device-pixel-ratio: 2){
+margin-top: 20px;
+padding-left: 0px;
 margin-bottom:10px;
+background-image: url(/img/banner@2x.png);
+background-color: transparent;
+height: 86px;
+width: 250px;
+}
+
+.header{
+margin-top: 20px;
+padding-left: 0px;
+margin-bottom:10px;
+background-image: url(/img/banner.png);
+background-color: transparent;
+height: 86px;
+width: 250px;
 }
 
 .nav li{
