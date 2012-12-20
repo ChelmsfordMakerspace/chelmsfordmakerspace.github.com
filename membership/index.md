@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Membership'
+group: navigation
 ---
 
 # Membership #

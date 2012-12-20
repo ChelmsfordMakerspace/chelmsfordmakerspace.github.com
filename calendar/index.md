@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Calendar'
+group: navigation
 ---
 
 # Calendar #
