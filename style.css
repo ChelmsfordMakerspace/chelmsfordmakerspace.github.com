@@ -1,35 +1,25 @@
 /*   
 Chelmsford Makerspace CSS.
 Originally by Ben Orrin.
-Modifications and updates by Richard Raybould.
+Complete rewrite, modifications and updates by Richard Raybould.
 */
 
 @media screen {
 
 * { margin: 0; padding: 0; }
-body { 
-background: white;
-font: 14px/1.4 Tahoma, Helvetica, Arial;
-color:#3F3F3F;
-height:100%;
+
+body,html {
+	margin:0;
+	padding:0;
+	background: white;
+	font: 14px/1.4 Tahoma, Helvetica, Arial;
+	color:#3F3F3F;
+	height: 100%;
 }
-.clear { clear: both; }
-.group:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
-* html .group, *:first-child+html .group { zoom: 1; } /* First selector = IE6, Second Selector = IE 7 */
 
-#page-wrap { width: 960px; margin: 20px auto; }
-
-h1, h2, h3 { font-weight: normal; margin: 0 0 10px 0; }
-h1 { }
-h2 { }
-h3 { }
-
-p { margin: 0 0 10px 0; }
-a { color:#6d00b2; text-decoration:none; }
-a:hover { color:#9A48CD; } 
-
-blockquote { }
-blockquote p { }
+p {
+margin: 0 0 10px 0;
+}
 
 ul, ol { margin: 0 0 10px 0; }
 
@@ -38,41 +28,18 @@ background:#6d00b2;
 height:5px;
 }
 
-.footer{
-clear: both;
- position: relative;
- z-index: 10;
- height: 3.5em;
- margin-top: -3.5em;
-border-top:1px solid #D0D0D0;
-margin-top:25px;
-background:#E9E9E9;
-padding-top:10px;
-padding-bottom:25px;
-font-size:7pt;
-color:#5A5A5A;
-position:absolute;
-bottom:0;
-left:0;
-width:100%;
-}
-
-input[type=text]{
-width:250px;
-height:30px;
-}
-
-.pagecontainer{
-width:960px;
-margin-left:auto;
-margin-right:auto;
-margin-bottom:25px;
+#wrap {
+	width:960px;
+	min-height: 96.75%;
+	height: auto !important;
+	margin-right: auto;
+	margin-bottom: -85px; /* the bottom margin is the negative value of the footer's height */
+	margin-left: auto;
 }
 
 .header{
 	margin-top: 20px;
-	padding-left: 0px;
-	margin-bottom:10px;
+	margin-bottom: 10px;
 	background-image: url(/img/banner.png);
 	background-color: transparent;
 	background-size: 250px 86px;
@@ -82,6 +49,50 @@ margin-bottom:25px;
 	width: 250px;
 }
 
+h1 {
+    margin:0;
+}
+
+.announce {
+	padding:5px 10px;
+	background:#c99;
+}
+
+.announce ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.announce li {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+
+.content {
+	float:right;
+	width:670px;
+	padding-left:20px;
+	margin-bottom:25px;
+}
+
+h2 {
+	margin:0 0 1em;
+}
+
+.nav {
+	float:left;
+	background:#E4E4E4;
+	width:250px;
+	float:left;
+	padding:10px;
+}
+.social{
+margin-bottom:10px;
+height:32px;
+}
+
 .nav li{
 list-style:none;
 font-size: 12pt;
@@ -89,18 +100,6 @@ border-bottom:1px solid #AAAAAA;
 padding-top:3px;
 padding-bottom:3px;
 padding-left:10px;
-}
-
-.content{
-width:670px;
-float:right;
-padding-left:20px;
-margin-bottom:25px;
-}
-
-.social{
-margin-bottom:10px;
-height:32px;
 }
 
 .nav li:hover{
@@ -147,73 +146,36 @@ text-decoration:none;
 color:white;
 }
 
-.nav{
-background:#E4E4E4;
-width:250px;
-float:left;
-padding:10px;
+.footer {
+	clear:both;
+	background:#cc9;	
+	border-top:1px solid #D0D0D0;
+	background:#E9E9E9;
+	font-size:7pt;
+	color:#5A5A5A;
+	width:100%;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 
-.post {
-padding-bottom: 25px;
+#footer p {
+	margin:0;
 }
 
-.entry { }
-.entry a { }
-.entry a:hover { }
-
-pre { }
-code, tt { }
-
-.meta{
-font-size:10pt;
-color:#ABABAB;
+* html #footer {
+	height:1px;
 }
-
-
-} /* END screen media */
-
+}
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), screen and (max--moz-device-pixel-ratio: 2) {
 .header{
 	margin-top: 20px;
-	padding-left: 0px;
 	margin-bottom: 10px;
 	background-image: url(/img/banner@2x.png);
 	background-color: transparent;
 	background-size: 250px 86px;
+	background-repeat:no-repeat;
+	background-position: left center; 
 	height: 92px;
 	width: 250px;
-	background-repeat: no-repeat;
-	background-position: left center; 
 }
-
-
-}
-
-
-@media print {
-
-.do-not-print { display: none; }
-#comments { page-break-before: always; }
-
-body { width: 100% !important; margin: 0 !important; padding: 0 !important; line-height: 1.4; word-spacing: 1.1pt; letter-spacing: 0.2pt; font-family: Garamond,"Times New Roman", serif; color: #000; background: none; font-size: 12pt; }
-h1,h2,h3,h4,h5,h6 { font-family: Helvetica, Arial, sans-serif; }
-h1 { font-size: 19pt; }
-h2 { font-size:17pt; }
-h3 { font-size:15pt; }
-h4,h5,h6 { font-size:12pt; }
-code { font: 10pt Courier, monospace; } 
-blockquote { margin: 1.3em; padding: 1em; }
-img { display: block; margin: 1em 0; }
-a img { border: none; }
-table { margin: 1px; text-align:left; }
-th { border-bottom: 1px solid #333;  font-weight: bold; }
-td { border-bottom: 1px solid #333; }
-th, td { padding: 4px 10px 4px 0; }
-caption { background: #fff; margin-bottom: 2em; text-align: left; }
-thead { display: table-header-group; }
-tr { page-break-inside: avoid; } 
-a { text-decoration: none; color: black; }
-	
-} /* END print media */
