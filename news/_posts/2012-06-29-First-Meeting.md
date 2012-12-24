@@ -10,6 +10,8 @@ Meet at Galleywood Scout Hut, and pop in anytime between 7pm and 10pm.
 
 Please try and bring £2.50 for the running of the club, its a little high this week, but we're not sure of the turnout.
 
+<!--break-->
+
 Bring along food, laptops and whatever you like! We'll be socialising, listening to music, introducing ourselves and having a small planning meeting to get things rolling.
 
 (Galleywood Scout Hut is located in Jubilee Park, just off Watchouse road)

@@ -7,6 +7,8 @@ date: 2012-08-22 01:11 UTC
 
 We hope you all enjoyed your summer, now that it is unfortunately coming to an end, the Makerspace will be starting up again with a Summer BBQ on Wednesday 29th August.  
 
+<!--break-->
+
 The BBQ will be held out the front of the scout on the concrete area.  
 Bring food, drink and other summer items for outdoor games.  
 As funds are limited, we will require the food and drink to be donated by the members.  

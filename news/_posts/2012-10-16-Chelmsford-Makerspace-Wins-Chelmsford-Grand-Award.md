@@ -7,6 +7,8 @@ date: 2012-10-16 00:00:00 UTC
 
 Earlier this year we attended an event at Anglia Ruskin University called [City Camp Chelmsford](http://citycampchelmsford.wordpress.com/), this was an unconference about how we could go about making Chelmsford a better and safer place.
 
+<!--break-->
+
 We went to City Camp and told people about the Makerspace, what we’re doing and what we plan to do in the future and the response that we received was overwhelmingly positive.
 
 We decided to enter into a special CityCamp round of the [Chelmsford Grand Awards](http://www.chelmsfordgrandawards.co.uk/), a scheme which gives £1000 to a given charity or community group in Chelmsford each month.

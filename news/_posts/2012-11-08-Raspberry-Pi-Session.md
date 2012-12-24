@@ -6,7 +6,9 @@ date: 2012-11-08 20:08 UTC
 ---
 
 Ever wanted to program computers but didn't know how?  
-Well we'll be teaching people (even absolute beginners) how to use and start making things with a Raspberry Pi.  
+Well we'll be teaching people (even absolute beginners) how to use and start making things with a Raspberry Pi. 
+ 
+<!--break-->
 
 Come along on to Galleywood Scout Hut (just off Watchouse Road) on 27th November from 7:30 - 10pm  
 

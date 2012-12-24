@@ -8,9 +8,10 @@ Modifications and updates by Richard Raybould.
 
 * { margin: 0; padding: 0; }
 body { 
-background: white; 
+background: white;
 font: 14px/1.4 Tahoma, Helvetica, Arial;
-color:#3F3F3F; 
+color:#3F3F3F;
+height:100%;
 }
 .clear { clear: both; }
 .group:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
@@ -41,15 +42,19 @@ height:5px;
 clear: both;
  position: relative;
  z-index: 10;
- height: 3em;
- margin-top: -3em;
+ height: 3.5em;
+ margin-top: -3.5em;
 border-top:1px solid #D0D0D0;
 margin-top:25px;
 background:#E9E9E9;
-padding-top:25px;
+padding-top:10px;
 padding-bottom:25px;
 font-size:7pt;
 color:#5A5A5A;
+position:absolute;
+bottom:0;
+left:0;
+width:100%;
 }
 
 input[type=text]{
@@ -149,7 +154,9 @@ float:left;
 padding:10px;
 }
 
-.post { }
+.post {
+padding-bottom: 25px;
+}
 
 .entry { }
 .entry a { }
@@ -159,7 +166,6 @@ pre { }
 code, tt { }
 
 .meta{
-padding-bottom:10px;
 font-size:10pt;
 color:#ABABAB;
 }
