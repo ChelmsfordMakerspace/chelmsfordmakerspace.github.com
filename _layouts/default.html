@@ -1,17 +1,22 @@
-<html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>{% if page.title %} {{ page.title }} | {% endif %} Chelmsford Makerspace</title>
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Simple 2 column CSS layout, final layout | 456 Berea Street</title>
+	<meta name="description" content="How to create a simple two column CSS layout with full width header and footer.">
+	<meta name="copyright" content="Copyright (c) 2004 Roger Johansson">
+	<meta name="author" content="Roger Johansson">
 	<link rel="stylesheet" href="/style.css" type="text/css" />
 </head>
-
 <body>
-	<div class="top"></div>
-	<div class="pagecontainer">
-		<a href="/">
-			<a href="/" title="Chelmsford Makerspace"><div class="header"></div></a>
-		</a>
+<div class="top"></div>
+<div id="wrap">
+	<div class="header"></div>
+	<div class="announce">
+		We're taking a few weeks off due to Scout Hut floor repair and holidays, we'll be back in the new year, probably on the 8th but we'll let everyone know!
+	</div>
+			<div class="content">{{ content }}</div>
 	<div class="nav">
 	<div class="social">
 		<a href="https://facebook.com/ChelmsfordHackerspace" title="Facebook"><div class="facebook"></div></a>
@@ -28,19 +33,15 @@
       		<li><a href="/donate/index.html">Donate</a></li>
       	</ul>
 </div>
-
-<div class="content">
-	{{ content }}		
-</div>
-
+	</div>
 </div>
 <div class="footer">
-<center>
-Chelmsford Makerspace is a Non-profit Organisation.<br/>
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">Creative Commons Attribution 3.0 Unported License</a> (Except where noted).</br>
-Fork and submit improvements on <a href="https://github.com/ChelmsfordMakerspace/chelmsfordmakerspace.github.com">GitHub</a>.</br>
-</center>
-	</div>
-</body>
+	<center>
+		Chelmsford Makerspace is a Non-profit Organisation.<br/>
+		<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">Creative Commons Attribution 3.0 Unported License</a> (Except where noted).</br>
+		Fork and submit improvements on <a href="https://github.com/ChelmsfordMakerspace/chelmsfordmakerspace.github.com">GitHub</a>.</br>
+	</center>
+</div>
 
+</body>
 </html>
