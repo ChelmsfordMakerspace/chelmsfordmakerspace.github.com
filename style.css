@@ -166,3 +166,16 @@ color:white;
 	height:1px;
 }
 }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), screen and (max--moz-device-pixel-ratio: 2) {
+.header{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background-image: url(/img/banner@2x.png);
+	background-color: transparent;
+	background-size: 250px 86px;
+	background-repeat:no-repeat;
+	background-position: left center; 
+	height: 92px;
+	width: 250px;
+}
