@@ -12,7 +12,7 @@ We provide a space where people who make things can come to share tools and know
 Basicly we have a ‘space’ where we all get together, socialise and create things!  
 We have cool tools, cool people (with lots of knowledge) and its fun!
 
-![Raspberry Pi](http://chelmsfordmakerspace.co.uk/wp-content/uploads/2012/05/Untitled-2.png)
+![Raspberry Pi](/img/raspberry-pi_closeup.png)
 
 The Space is inspired by many ‘hackerspaces’ and ‘makerspaces’ in the USA and Europe, a place where likeminded people can come together to socialise, create and have fun.  
 We can use membership fees to buy equipment and materials that people otherwise wouldn’t have had access to, we can bring many people together to share their knowledge with others, and learn from others.
