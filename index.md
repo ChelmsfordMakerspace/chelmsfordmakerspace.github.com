@@ -3,9 +3,9 @@ layout: default
 title: 'Home'
 ---
 
-![Reprap 3D printing](http://chelmsfordmakerspace.co.uk/wp-content/uploads/2012/05/Untitled-11.png)  
+![Reprap 3D printing](/img/reprap_closeup.png)  
 
-![Raspberry Pi](http://chelmsfordmakerspace.co.uk/wp-content/uploads/2012/05/Untitled-2.png)  
+![Raspberry Pi](/img/raspberry-pi_closeup.png)  
 
 Chelmsford Makerspace is a non-profit, community-run workshop in Chelmsford.  
 We provide a space where people who make things can come to share tools and knowledge.
