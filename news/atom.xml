@@ -3,7 +3,7 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title type="text" xml:lang="en">Blog 1</title>
+    <title type="text" xml:lang="en">News</title>
     <link type="application/atom+xml" href="http://chelmsfordmakerspace.co.uk/news/atom.xml" rel="self"/>
     <link type="text" href="http://chelmsfordmakerspace.co.uk" rel="alternate"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
