@@ -1,8 +1,10 @@
 ---
 layout: default
-title: HRichmond1995
+title: Harry Richmond (HRichmond1995)
 group: members
 ---
+
+#Harry Richmond (HRichmond1995)
 
 ##About
 

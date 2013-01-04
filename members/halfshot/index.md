@@ -1,8 +1,10 @@
 ---
 layout: default
-title: HalfShot
+title: Will Hunt (HalfShot/MolramsGaming)
 group: members
 ---
+
+#Will Hunt (HalfShot/MolramsGaming)
 
 ##About
 Hey, you right there. You clicked this for a reason i hope?

@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Razyre
+title: Ross Bishop (Razyre)
 group: members
 --- 
+
+#Ross Bishop (Razyre)
 
 ##About
 

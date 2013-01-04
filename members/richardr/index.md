@@ -1,12 +1,14 @@
 ---
 layout: default
-title: RichardR
+title: Richard Raybould (RichardR/NekomimiScience)
 group: members
 ---
 
+#Richard Raybould (RichardR/NekomimiScience)
+
 ##About
-Name: Richard Raybould.  
-Username: RichardR or NekomimiScience.  
+Hi, I'm Richard and I break things, I founded Chelmsford Makerspace along with Ben.  
+
 Drink of choice: Dr Pepper.  
 OS/Computer: OS X Mountain Lion, MacBook Pro, 15-inch, Late 2008.  
 
