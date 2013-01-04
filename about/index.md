@@ -3,7 +3,9 @@ layout: default
 title: 'About'
 ---
 
-# About #
+#About
+
+See also: [History](history)
 
 Chelmsford Makerspace is a non-profit, community-run hackerspace in Chelmsford.  
 We provide a space where people who make things can come to share tools and knowledge.
