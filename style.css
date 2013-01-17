@@ -26,6 +26,12 @@ a:hover { color:#9A48CD; }
 h1, h2, h3 { font-weight: normal; }
 h1 { margin:0; }
 
+.div-link {
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
 .meta{
 font-size:10pt;
 color:#ABABAB;
