@@ -59,6 +59,12 @@ height:5px;
 	width: 250px;
 }
 
+.header-link {
+	display: block;
+	height: 100%;
+	width: 960px;
+}
+
 .announce {
 	padding:5px 10px;
 	background:#c99;
