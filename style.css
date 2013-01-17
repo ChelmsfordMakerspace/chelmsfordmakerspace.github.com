@@ -26,6 +26,12 @@ a:hover { color:#9A48CD; }
 h1, h2, h3 { font-weight: normal; }
 h1 { margin:0; }
 
+.div-link {
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
 .meta{
 font-size:10pt;
 color:#ABABAB;
@@ -57,6 +63,12 @@ height:5px;
 	background-position: left center; 
 	height: 92px;
 	width: 250px;
+}
+
+.header-link {
+	display: block;
+	height: 100%;
+	width: 960px;
 }
 
 .announce {
@@ -166,6 +178,7 @@ padding-bottom:25px;
 	width:100%;
 	padding-top:10px;
 	padding-bottom:10px;
+	text-align:center;
 }
 
 #footer p {
