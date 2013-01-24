@@ -1,20 +1,59 @@
 ---
 layout: default
 title: News
-category: news
-group: navigation
 ---
-{% for post in site.posts %}      
-  {% if post.categories contains 'news' %}
-	<div class="post">
-		<h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		<p class="meta">Date: {{ post.date }}</p>
-		<div class="entry">
-			   {{ post.content | split:'<!--break-->' | first }}
-  				{% if post.content contains '<!--break-->' %}
-     			 <a href="{{ post.url }}">Read more…</a>
-   				{% endif %}
-		</div>
-	</div>
-  {% endif %}
-{% endfor %}
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row">
+      <div class="twelve columns">
+       <h1>News <small>It's the news. It's awesome.</small>
+       <hr />
+      </div>
+    <!-- Main Blog Content -->
+    <div class="nine columns" role="content">
+     {% for post in site.posts %}      
+      {% if post.categories contains 'news' %}
+      <article>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h6>Date: {{ post.date }}</h6>
+	       {{ post.content | split:'<!--break-->' | first }}
+			{% if post.content contains '<!--break-->' %}
+ 			 <a href="{{ post.url }}">Read more…</a>
+			{% endif %}
+      </article>
+      
+      <hr/>
+      {% endif %}
+    {% endfor %}
+    </div>
+
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+
+    <aside class="three columns">
+        
+      <h5>Categories</h5>
+      <ul class="side-nav">
+        <li><a href="#">News</a></li>
+        <li><a href="#">Code</a></li>
+        <li><a href="#">Design</a></li>
+        <li><a href="#">Fun</a></li>
+        <li><a href="#">Weasels</a></li>
+      </ul>
+
+      <div class="panel">
+        <h5>Featured</h5>
+        <p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow.</p>
+        <a href="#">Read More &rarr;</a>
+      </div>
+
+    </aside>
+
+    <!-- End Sidebar -->
+  </div>
+
+  <!-- End Main Content and Sidebar -->
+
+
