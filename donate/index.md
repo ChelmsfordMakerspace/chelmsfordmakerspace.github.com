@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown
 title: 'Donate'
 group: navigation
 ---
