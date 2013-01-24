@@ -2,9 +2,9 @@
 layout: markdown
 title: 'Microwaveception'
 ---
-
-**WARNING: THIS PAGE IS A JOKE**
-
+<div class="alert-box alert">
+WARNING: THIS PAGE IS A JOKE
+</div>
 #Microwaveception
 *Microwaveception* occurs when one or more microwaves are place within one another, resulting in a Microwave within a Microwave, within a Microwave, within a Microwave, within a Microwave, ad infinitum.
 
