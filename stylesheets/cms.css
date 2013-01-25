@@ -40,6 +40,11 @@ p a, p a:visited { line-height: inherit; }
 
 #map_canvas object { max-width: none; }
 
+.meta{
+color:#999999;
+
+}
+
 /* Reset for strange margins by default on <figure> elements */
 figure { margin: 0; }
 
