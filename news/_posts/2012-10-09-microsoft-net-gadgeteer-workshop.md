@@ -1,7 +1,7 @@
 ---
 layout: post
 category: News
-title: 'Venue Update'
+title: 'Microsoft Gadgeteer Workshop'
 ---
 Today <a href='http://twitter.com/richardr'>Richard</a> and <a href='http://twitter.com/skylonrow'>Ben</a> went down to the <a href='http://www.ideashubchelmsford.org/'>Ideas Hub</a> to check out the Microsoft Gadgeteer Training Workshop.
 
