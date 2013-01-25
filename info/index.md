@@ -1,6 +1,6 @@
 ---
 layout: markdown
-title: 'Member Information'
+title: 'Information'
 ---
 #Information <small>for members.</small>
 ---
