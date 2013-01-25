@@ -6,10 +6,10 @@ title: 'Library'
 #Library
 Random links of information.
 
-##General Hardware
+###General Hardware
 [A visual glossary of screws, nuts and washers](http://www.mikesenese.com/DOIT/2011/10/visual-glossary-of-screws-nuts-and-washers/)
 
-##Electronics
+###Electronics
 [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/) A very good starter text.  
 
 [Beginning Pinball Repair and 
