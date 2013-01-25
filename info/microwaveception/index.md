@@ -1,11 +1,15 @@
 ---
-layout: default
+layout: markdown
 title: 'Microwaveception'
 ---
 
-**WARNING: THIS PAGE IS A JOKE**
+#Microwaveception <small>Microwaves inside microwaves.</small>
+---
 
-#Microwaveception
+<div class="alert-box alert">
+WARNING: THIS PAGE IS A JOKE
+</div>
+
 *Microwaveception* occurs when one or more microwaves are place within one another, resulting in a Microwave within a Microwave, within a Microwave, within a Microwave, within a Microwave, ad infinitum.
 
 *Microwaveception* has come under increasing controversy from Health and Safety since its inception.

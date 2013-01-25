@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: markdown
 title: 'Bitcoin Donations'
 ---
 
-#Bitcoin Donations#
-We accept donations (but not membership dues) through Bitcoin, a geeky anonymous digital currency. If you would like to help support us, send us some!
+#Bitcoin Donations <small>P2P digital currency.</small>
+---
+We accept donations (but not membership dues) through [Bitcoin](http://bitcoin.org/), a peer to peer anonymous digital currency.  
 
-##Address##
-Our bitcoin address is: **1NQjDPnhtct2ashB7W6xcdpCK1QiArwHay**
-
+###Address
+Our bitcoin address is: **1NQjDPnhtct2ashB7W6xcdpCK1QiArwHay**  
 ![Bitcoin address in a QR code](bitcoin-address.png)

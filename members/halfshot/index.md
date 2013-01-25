@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown
 title: Will Hunt (HalfShot/MolramsGaming)
 group: members
 ---

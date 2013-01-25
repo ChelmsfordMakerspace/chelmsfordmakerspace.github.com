@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown
 title: Harry Richmond (HRichmond1995)
 group: members
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown
 title: Ben Orrin (SkylonRow)
 group: members
 ---
