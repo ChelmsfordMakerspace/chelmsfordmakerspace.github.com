@@ -4,10 +4,8 @@ title: 'Donate'
 group: navigation
 ---
 
-#Donate#
-Here at the Makerspace donations keep us running, and thats not just monetary ones!
-
-We’re a non profit organisation and we rely on membership fees and donations to pay for the space, insurance, equipment and materials for people to build with.
+#Donate <small>Help keep us running.</small>
+---
 
 Here at the Makerspace donations keep us running, and thats not just monetary ones!  
 We’re a non profit organisation and we rely on membership fees and donations to pay for the space, insurance, equipment and materials for people to build with.  
