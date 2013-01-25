@@ -4,10 +4,11 @@ title: 'Membership'
 group: navigation
 ---
 
-#Membership
-
-##Welcome!
-This page is intended to help people who have never been to the [Makerspace](http://en.wikipedia.org/wiki/Hackerspace) before. 
+#Membership <small>Welcome!</small>
+---
+<div class="alert-box secondary">
+This page is intended to help people who have never been to the <a href= "http://en.wikipedia.org/wiki/Hackerspace">Makerspace</a> before.
+</div>
 
 ###Meetings
 We hold our meetings every Tuesday from 19:30 – 22:00 at [Galleywood Scout Hut](https://maps.google.com/maps?hl=en&ll=51.702403,0.478308&spn=0.001805,0.005252&t=h&z=18), we simply ask you to bring a small donation of £2.50 if you attend.  
