@@ -1,45 +1,86 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-        "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>{% if page.title %} {{ page.title }} | {% endif %} Chelmsford Makerspace</title>
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="/style.css" type="text/css">
-	<meta name="description" content="Chelmsford Makerspace is a non-profit, community-run workshop in Chelmsford. We provide a space where people who make things can come to share tools and knowledge.">
-	<meta name="copyright" content=">Creative Commons Attribution 3.0 Unported">
-	<meta name="author" content="Richard Raybould">
+  <meta charset="utf-8" />
+  
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <title>{% if page.title %} {{ page.title }} | {% endif %} Chelmsford Makerspace</title>
+
+  <!-- Included CSS Files -->
+  <link rel="stylesheet" href="/stylesheets/cms.css">
+
+</head>
+
 </head>
 <body>
-<div class="top"></div>
-<div id="wrap">
-	<div class="header"><a href="/" title="Chelmsford Makerspace" class="header-link"></a></div>
-		<!--<div class="announce">
-			We're taking a few weeks off due to Scout Hut floor repair and holidays, we'll be back in the new year, probably on the 8th but we'll let everyone know!
-		</div>-->
-			<div class="content">{{ content }}</div>
-	<div class="nav">
-	<div class="social">
-		<div class="facebook"><a href="https://facebook.com/ChelmsfordHackerspace" title="Facebook" class="div-link"></a></div>
-		<div class="twitter"><a href="https://twitter.com/cm_makerspace" title="Twitter" class="div-link"></a></div>
-		<div class="mail"><a href="https://groups.google.com/forum/#!forum/chelmsford_makerspace" title="Mailing List" class="div-link"></a></div>
-</div>
-    	<ul>
-      		<li><a href="/about" class="div-link">About</a></li>
-      		<li><a href="/news" class="div-link">News</a></li>
-      		<li><a href="/info" class="div-link">Member Information</a></li>
-      		<li><a href="/membership" class="div-link">Membership</a></li>
-      		<li><a href="/calendar" class="div-link">Calendar</a></li>
-      		<li><a href="/donate" class="div-link">Donate</a></li>
-      	</ul>
-	</div>
-</div>
-<div class="footer">
-	<div>Chelmsford Makerspace is a Non-profit Organisation.</div>
-	<div><a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png"></a></div>
-	<div>This site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">Creative Commons Attribution 3.0 Unported License</a> (Except where noted).</div>
-	<div>Fork and submit improvements on <a href="https://github.com/ChelmsfordMakerspace/chelmsfordmakerspace.github.com">GitHub</a>.</div>
-</div>
 
+<div class="row">
+  <div class="twelve columns">
+
+    <!-- Navigation -->
+
+      <nav class="top-bar contain-to-grid">
+        <ul>
+          <li class="name"><a href="/"><img src="/images/Just H.svg" alt="H" height="45" width="45"/></a></li>
+          <li class="toggle-topbar"><a href="#"></a></li>
+        </ul>
+
+        <section>
+          <ul class="left">
+              <li><a href="/news">News</a></li>
+              <li><a href="/info">Information</a></li>
+              <li><a href="/membership">Membership</a></li>
+              <li><a href="/donate">Donate</a></li>
+              <li><a href="/contact">Contact Us</a></li>
+          </ul>
+        </section>
+    </nav>
+
+    <!-- End Navigation -->
+
+    </div>
+  </div>
+
+<div class="row">
+  {{ content }}
+</div>
+    <!-- Footer -->
+
+  <footer class="row">
+    <div class="twelve columns"><hr />
+      <div class="row">
+
+        <div class="nine columns">
+			Chelmsford Makerspace is a Non-profit Organisation.<br/>
+			This site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">Creative Commons Attribution 3.0 Unported License</a> (Except where noted).</br>
+			Fork and send pull requests on <a href="https://github.com/ChelmsfordMakerspace/chelmsfordmakerspace.github.com">GitHub</a>.<br/><br/>
+        </div>
+
+        <div class="three columns">
+          <ul class="link-list right">
+            <li><a href="/members">Members</a></li>
+            <li><a href="/press">Press</a></li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+    <!-- End Footer -->
+    <!-- Included JS Files -->
+    <script src="/javascripts/jquery.js"></script>
+    <script src="/javascripts/jquery.foundation.topbar.js"></script>
+	<script src="/javascripts/app.js"></script>
+    <script src="/javascripts/jquery.retina.min.js"></script>
+    <script>
+    // Replaces the image with rmnp@2x.jpg
+    $('img.retina').retina({suffix: "@2x"});
+</script>
 </body>
 </html>

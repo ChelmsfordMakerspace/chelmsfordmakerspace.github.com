@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown
 title: Ross Bishop (Razyre)
 group: members
 --- 
