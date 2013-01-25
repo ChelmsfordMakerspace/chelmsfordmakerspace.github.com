@@ -2,7 +2,6 @@
 layout: post
 category: News
 title: 'Chelmsford Ideas Festival'
-date: 2012-09-19 18:30 UTC
 ---
 
 This weekend Saturday 22nd - Sunday 23rd September from 1pm we will be at The Hub at the Chelmsford Ideas Festival!

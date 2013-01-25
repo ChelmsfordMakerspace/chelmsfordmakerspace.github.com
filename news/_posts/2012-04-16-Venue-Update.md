@@ -2,7 +2,6 @@
 layout: post
 category: News
 title: 'Venue Update'
-date: 2012-04-16 23:19 UTC
 ---
 
 Our proposed new venue (Galleywood Scout Hut, Jubilee Park) has said that we should be able to get either a Tuesday night or a Wednesday night.

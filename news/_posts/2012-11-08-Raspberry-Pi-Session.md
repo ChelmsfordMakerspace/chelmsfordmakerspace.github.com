@@ -2,7 +2,6 @@
 layout: post
 category: News
 title: 'Raspberry Pi Session'
-date: 2012-11-08 20:08 UTC
 ---
 
 Ever wanted to program computers but didn't know how?  
