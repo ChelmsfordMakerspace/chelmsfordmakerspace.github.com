@@ -2,7 +2,6 @@
 layout: post
 category: News
 title: 'Summer BBQ'
-date: 2012-08-22 01:11 UTC
 ---
 
 We hope you all enjoyed your summer, now that it is unfortunately coming to an end, the Makerspace will be starting up again with a Summer BBQ on Wednesday 29th August.  

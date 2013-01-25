@@ -2,7 +2,6 @@
 layout: post
 category: News
 title: 'First Meeting'
-date: 2012-06-29 14:14 UTC
 ---
 
 After many years in development our First meeting will be on Wednesday 4th July. Its in writing! Hopefully it will have been worth the wait.
