@@ -2,7 +2,8 @@
 layout: markdown
 title: 'Member Information'
 ---
-#Member Information
+#Information <small>for members.</small>
+---
 
 [GitHub](https://github.com/ChelmsfordMakerspace) - Where most stuff happens.  
 [Library](library) - Collection of links to useful information.  

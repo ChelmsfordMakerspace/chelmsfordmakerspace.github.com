@@ -3,7 +3,8 @@ layout: markdown
 title: 'Pledges'
 ---
 
-#Running a Pledge
+#Running a Pledge <small>A quick overview.</small>
+---
 
 ###Before starting a pledge
 -Check that there is demand for the item you wish to buy on the wishlist and with the group on IRC/mailing list/etc.  

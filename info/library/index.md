@@ -3,8 +3,8 @@ layout: markdown
 title: 'Library'
 ---
 
-#Library
-Random links of information.
+#Library <small>Random links of information.</small>
+---
 
 ###General Hardware
 [A visual glossary of screws, nuts and washers](http://www.mikesenese.com/DOIT/2011/10/visual-glossary-of-screws-nuts-and-washers/)

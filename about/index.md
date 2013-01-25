@@ -3,7 +3,7 @@ layout: markdown
 title: 'About'
 ---
 
-#About
+#About <small>us.</small>
 
 See also: [History](history)
 

@@ -3,7 +3,8 @@ layout: markdown
 title: 'Press'
 ---
 
-#Chelmsford Makerspace in the news
+##Chelmsford Makerspace in the news <small>and press materials.</small>
+---
 
 [New Hackspace in Chelmsford](http://www.southgatearc.org/news/july2012/new_hackspace_in_chelmsford.htm)  
 Radio Interview on Ideas Festival and Makerspace  

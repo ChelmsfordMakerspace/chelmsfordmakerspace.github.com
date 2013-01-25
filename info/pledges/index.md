@@ -3,7 +3,8 @@ layout: markdown
 title: 'Pledges'
 ---
 
-#Pledges
+#Pledges <small>For buying big things!</small>
+---
 
 Pledges are to buy things that the Makerspace couldn't buy under normal circumstances, or have been requested by a minority.  
 Under these circumstances you must set-up a pledge, make a page detail what you would like to buy and how much it will cost.  
