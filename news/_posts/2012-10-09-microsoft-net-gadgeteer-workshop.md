@@ -2,6 +2,7 @@
 layout: post
 category: News
 title: 'Microsoft Gadgeteer Workshop'
+date: 2012-10-09 00:00 UTC
 ---
 Today <a href='http://twitter.com/richardr'>Richard</a> and <a href='http://twitter.com/skylonrow'>Ben</a> went down to the <a href='http://www.ideashubchelmsford.org/'>Ideas Hub</a> to check out the Microsoft Gadgeteer Training Workshop.
 
