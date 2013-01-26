@@ -3,7 +3,9 @@ layout: markdown
 title: 'Committee'
 ---
 
-#Committee
+#Committee <small>The people who oversee things.</small>
+---
+
 The Makerspace is run by volunteers. Although any member can vote and have input into the group, a number of individuals are assigned duties, this is the Committee.  
 Each committee member takes responsibility for a particular area listed in the table below. Either of these can be your first port of call if you want to discuss a particular issue.  
 
