@@ -3,7 +3,8 @@ layout: markdown
 title: 'History'
 ---
 
-#History
+#History <small>Where we've come from.</small>
+---
 
 ##Pre-Makerspace  
 ###2008
