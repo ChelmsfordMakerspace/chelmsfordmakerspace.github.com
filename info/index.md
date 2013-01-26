@@ -11,5 +11,4 @@ title: 'Information'
 
 ###Joke pages
 Please don't take any of these seriously.  
-
 [Microwaveception](microwaveception)

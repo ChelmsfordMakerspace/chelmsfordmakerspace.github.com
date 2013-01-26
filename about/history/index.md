@@ -3,7 +3,8 @@ layout: markdown
 title: 'History'
 ---
 
-#History
+#History <small>Where we've come from.</small>
+---
 
 ##Pre-Makerspace  
 ###2008
@@ -22,7 +23,7 @@ Original concept is that Hackerspace should be a closed group of friends, start 
 ###Feb 2012
 The idea is picked up again, more stuff is bounced around on Twitter and a Facebook page is set-up. Ben H along with others join the group.  
 ###Feb 2012
-Ben_Orrin Decides to start organising the group, Facebook likes are picking up furthering the need for a group in Chelmsford. Ben Orrin organises a meeting at The Keene Hall.  
+Ben Orrin Decides to start organising the group, Facebook likes are picking up furthering the need for a group in Chelmsford. Ben Orrin organises a meeting at The Keene Hall.  
 ###March 2012
 Keene Hall rejects our meeting, unhappy with 'hacker' in our name.  
 ###March 2012
