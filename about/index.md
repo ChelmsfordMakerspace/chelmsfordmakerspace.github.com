@@ -4,12 +4,13 @@ title: 'About'
 ---
 
 #About <small>us.</small>
+---
 
 See also: [History](history)
 
 Chelmsford Makerspace is a non-profit, community-run hackerspace in Chelmsford.  
 We provide a space where people who make things can come to share tools and knowledge.  
-The group is governed by a [committee](/committee).
+The group is governed by a [committee](committee).
 
 Basicly we have a ‘space’ where we all get together, socialise and create things!  
 We have cool tools, cool people (with lots of knowledge) and its fun!
