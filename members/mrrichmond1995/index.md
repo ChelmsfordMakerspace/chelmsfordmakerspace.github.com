@@ -27,7 +27,7 @@ My name is Harry and I am a PC Gamer, Semi Professional Photographer and the per
 -Pentax 18-55mm Zoom Lens With A Lens Hood (f/3.5-5.6)  
 -Sigma 70-300mm Macro Lens (f/4.0-5.6)  
 -Pentax 50mm Prime Lens (f/1.7) 
--Pentax 35mm Prime Lens (f/2.4) 
+-Pentax 35mm Prime Lens (f/2.4)  
 -8GB SDHC Memory Card (Class 10)  
 -Velbon UP400 Monopod with a Jessops Ball Head  
 -2 Way Hot Shoe Spirit Level  
