@@ -14,7 +14,7 @@ My name is Harry and I am a PC Gamer, Semi Profesional Photographer and the pers
 ##Seven Facts About Me
 -Snack of choice: Chocolate Biscuits.  
 -Drink of choice: Redbull.  
--Computer of choice: Gaming Computer (Ask for Specs).  
+-Computer of choice: Gaming Computer Specs Below.  
 -Tablet of choice: No No, I have no Tablet.  
 -Console of choice: PC... Durr.  
 -Game of choice: Minecraft... Nuff Said.  
@@ -32,11 +32,30 @@ My name is Harry and I am a PC Gamer, Semi Profesional Photographer and the pers
 -2 Way Hot Shoe Spirit Level  
 -HP Mini 210 for Photoshoots  
 
+##Gaming PC Specs
+
+Main Gaming PC System Specs:
+Antec 300 Case
+Intel Core i3 @3.07Ghz 
+16GB Corsair XMS3 RAM @1600Mhz
+500GB Hitachi Boot Drive
+250GB WD Caviar Drive for Photo and Video Files
+250GB WD Caviar Drive for ISO's and Movies
+500GB WD Caviar Blue Drive for Backups (Hotswap)
+LG BluRay/DVD Reader
+750 Watt Fully Modular OZC PSU
+ASUS P7H55-M SI Motherboard
+XFX 6850 GPU running at 20% Overclocked
+Xigmatek Fans all around
+Aftermarket CPU Cooler
+
 ##Projects
 
 Bass Bins along with Ben Heaysman  
 
 ##Contact Information
+
 YouTube Channel: [HRichmond1995](http://www.youtube.com/user/HRichmond1995)  
 Twitter Profile: [@MrRichmond1995](https://twitter.com/MrRichmond1995)
+Photography Page: [@HRichmond Photography](http://www.facebook.com/hrichmond.photography)
 Skype: MrRichmond1996
