@@ -87,3 +87,7 @@ We even attracted the attention of Rob Bishop from the Raspberry Pi foundation!
   <p>I hate ifconfig, whenever you're looking at ifconfig something's going wrong and you want to be connected to the internet.
   <cite>Rob Bishop</cite></p>
 </blockquote>
+
+##Other posts about BananaDrone
+- [SkylonRow.co.uk](http://skylonrow.co.uk/2013/02/03/raspberry-pi-at-the-bett-show/)  
+- [RotorWorld](http://rotorworld.co.uk/the-bananadrone-combines-quadrocopters-with-banana-control/)
