@@ -25,7 +25,7 @@ If you’d like to become a member, contact us at <contact@chelmsfordmakerspace.
 Not sure you want to be a member? Check our Facebook Page, Join our Mailing List, follow our Twitter or come along and see us in person!
 
 ###Twitter
-Follow us on Twitter and shoot us a message at @CM_Makerspace, usually best if you want a quick response as reply notifications to that account are pushed to Richard's phone!
+Follow us on Twitter and shoot us a message at [@CM_Makerspace](https://www.twitter.com/CM_Makerspace), usually best if you want a quick response as reply notifications to that account are pushed to Richard's phone!
 
 ###Mailing List
 Join the [mailing list](https://groups.google.com/forum/#!forum/chelmsford_makerspace), there's now regular activity there!
