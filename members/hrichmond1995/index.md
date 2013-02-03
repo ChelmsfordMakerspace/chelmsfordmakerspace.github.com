@@ -35,19 +35,19 @@ My name is Harry and I am a PC Gamer, Semi Profesional Photographer and the pers
 ##Gaming PC Specs
 
 Main Gaming PC System Specs:
-Antec 300 Case
-Intel Core i3 @3.07Ghz 
-16GB Corsair XMS3 RAM @1600Mhz
-500GB Hitachi Boot Drive
-250GB WD Caviar Drive for Photo and Video Files
-250GB WD Caviar Drive for ISO's and Movies
-500GB WD Caviar Blue Drive for Backups (Hotswap)
-LG BluRay/DVD Reader
-750 Watt Fully Modular OZC PSU
-ASUS P7H55-M SI Motherboard
-XFX 6850 GPU running at 20% Overclocked
-Xigmatek Fans all around
-Aftermarket CPU Cooler
+Antec 300 Case  
+Intel Core i3 @3.07Ghz  
+16GB Corsair XMS3 RAM @1600Mhz  
+500GB Hitachi Boot Drive  
+250GB WD Caviar Drive for Photo and Video Files  
+250GB WD Caviar Drive for ISO's and Movies  
+500GB WD Caviar Blue Drive for Backups (Hotswap)  
+LG BluRay/DVD Reader  
+750 Watt Fully Modular OZC PSU  
+ASUS P7H55-M SI Motherboard  
+XFX 6850 GPU running at 20% Overclocked  
+Xigmatek Fans all around  
+Aftermarket CPU Cooler  
 
 ##Projects
 
