@@ -14,7 +14,5 @@ However, any workshops will be listed below.
 None confirmed yet.
 
 ###Special events 
-January 30th - Feb 2nd - [BETT Show Raspberry Pi](http://www.bettshow.com/)
-February 12th - Pancake hacking.  
 6th April - [Rewired State: National Hack the Government 2013](https://groups.google.com/d/topic/chelmsford_makerspace/4CL9lRvX6QI/discussion)  
 4th July - Chelmsford Makerspace's birthday.
