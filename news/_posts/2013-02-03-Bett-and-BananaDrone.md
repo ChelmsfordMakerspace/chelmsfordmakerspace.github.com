@@ -91,3 +91,4 @@ We even attracted the attention of Rob Bishop from the Raspberry Pi foundation!
 ###Other posts about BananaDrone
 - [SkylonRow.co.uk](http://skylonrow.co.uk/2013/02/03/raspberry-pi-at-the-bett-show/)  
 - [RotorWorld](http://rotorworld.co.uk/the-bananadrone-combines-quadrocopters-with-banana-control/)
+- [CodeED](http://code-ed.blogspot.com/2013/02/learning-together-at-bett-show.html)
