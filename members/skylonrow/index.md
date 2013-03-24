@@ -7,7 +7,7 @@ group: members
 #Ben Orrin (SkylonRow)
 
 ##About
-Hello, I'm Ben and I am the Founder of the Chelmsford Makerspace :)
+Hello, I'm <a href="http://skylonrow.co.uk/about/">Ben Orrin</a> and I am the Founder of the Chelmsford Makerspace :)
 
 ##Contact
 Twitter: [@SkylonRow](http://www.twitter.com/skylonrow)  
