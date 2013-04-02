@@ -56,32 +56,32 @@ We even attracted the attention of Rob Bishop from the Raspberry Pi foundation!
 
 ####Command line testing using a Mac
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/G_BJ-xwGzrA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/G_BJ-xwGzrA" frameborder="0"> </iframe>
 </div>
 
 ####Command line testing on the Raspberry Pi
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/ClMjevPWeIY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/ClMjevPWeIY" frameborder="0"> </iframe>
 </div>
 
 ####BananaDrone fully working
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/XfC4RvgQTJE" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/XfC4RvgQTJE" frameborder="0"> </iframe>
 </div>
 
 ####Same from another angle
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/c3SnecpXTS0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/c3SnecpXTS0" frameborder="0"> </iframe>
 </div>
 
 ####Second flight
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/muzVxcOZFGM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/muzVxcOZFGM" frameborder="0"> </iframe>
 </div>
 
 ####Networking issues
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/XmQTzxvua3Q" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/XmQTzxvua3Q" frameborder="0"> </iframe>
 </div>
 <blockquote>
   <p>I hate ifconfig, whenever you're looking at ifconfig something's going wrong and you want to be connected to the internet.

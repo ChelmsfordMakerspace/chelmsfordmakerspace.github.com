@@ -17,6 +17,6 @@ Now for the real reason for this post, after the jump we've embedded a video con
 <!--break-->
 
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/nKIu9yen5nc" frameborder="0"> </iframe>
 </div>
 (This was totally not an excuse to post a video containing Valve)

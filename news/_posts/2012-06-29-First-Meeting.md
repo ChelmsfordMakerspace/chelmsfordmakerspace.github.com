@@ -16,6 +16,6 @@ Bring along food, laptops and whatever you like! We'll be socialising, listening
 (Galleywood Scout Hut is located in Jubilee Park, just off Watchouse road)
 
 See here (its that building in the park):
-<iframe src="https://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=51.702506,0.479579&amp;spn=0.00361,0.010504&amp;t=h&amp;z=17&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe>
+<iframe src="https://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=51.702506,0.479579&amp;spn=0.00361,0.010504&amp;t=h&amp;z=17&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"> </iframe>
 <small><a style="color: #0000ff; text-align: left;" href="https://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=51.702506,0.479579&amp;spn=0.00361,0.010504&amp;t=h&amp;z=17&amp;source=embed">View Larger Map</a></small>
 

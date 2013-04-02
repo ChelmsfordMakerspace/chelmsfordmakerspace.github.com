@@ -13,5 +13,5 @@ We've embedded our application video after the break!
 <!--break-->
 
 <div class="flex-video widescreen vimeo">
-<iframe src="http://player.vimeo.com/video/57601459" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/57601459" width="500" height="281" frameborder="0"> </iframe>
 </div>

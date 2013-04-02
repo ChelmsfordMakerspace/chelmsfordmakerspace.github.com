@@ -9,5 +9,5 @@ So a couple of us went to Rewired State Parliament last year and now the video f
 <!--break-->
 
 <div class="flex-video widescreen">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/EzabWXO123A" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/EzabWXO123A" frameborder="0"> </iframe>
 </div>
