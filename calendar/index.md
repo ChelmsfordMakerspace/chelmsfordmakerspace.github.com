@@ -15,4 +15,5 @@ None confirmed yet.
 
 ###Special events 
 6th April - [Rewired State: National Hack the Government 2013](https://groups.google.com/d/topic/chelmsford_makerspace/4CL9lRvX6QI/discussion)  
+3rd May - [Chelmsford Spring Game Jam](http://gamejam.cmspace.org)  
 4th July - Chelmsford Makerspace's birthday.
