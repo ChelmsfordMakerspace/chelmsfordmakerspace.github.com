@@ -6,7 +6,7 @@ title: 'We have an AR.Drone now!'
 
 ![Chelmsford Makerspace with the new drone](img/drone-get.jpg)
 
-A little late on this one but we now have a Parrot AR.Drone 2.0 of our own!  
+A little late on this one but we now have a [Parrot](http://www.parrot.com/uk/) [AR.Drone 2.0](http://ardrone2.parrot.com/) of our own!  
 <!--break-->
 
 For [BananaDrone](Bett-and-BananaDrone.html), we were borrowing [Tom Stacy](https://twitter.com/Code_ED)'s personal drone. After that we wanted our own so Tom contacted the UK distributor of them, [Flying Toys](http://www.flyingtoys.com/) to see what he could do.
