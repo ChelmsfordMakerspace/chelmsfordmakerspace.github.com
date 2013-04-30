@@ -7,7 +7,7 @@ group: members
 #Richard Raybould (RichardR/NekomimiScience)
 
 ##About
-Hi, I'm Richard and I break things, I founded Chelmsford Makerspace along with Ben.  
+Hi, I'm [Richard](http://r.labcoats.eu/about/) and I break things, I founded Chelmsford Makerspace along with Ben.  
 
 Drink of choice: Dr Pepper.  
 OS/Computer: OS X Mountain Lion, MacBook Pro, 15-inch, Late 2008.  
@@ -30,3 +30,4 @@ to make it actually happen.
 Twitter: [@RichardR](https://twitter.com/RichardR)  
 GitHub: [NekomimiScience](https://github.com/NekomimiScience)  
 Steam: [RichardR](http://steamcommunity.com/id/RichardR)  
+Blog: [Adventures in Labcoats](http://r.labcoats.eu/)
