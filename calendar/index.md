@@ -15,8 +15,7 @@ However, any workshops will be listed below.
 10th May - Raspberry Pi workshop. (Ideas Hub)  
 16th May - Getting started with social media. (Ideas Hub)  
 
-###Special events 
-3rd May - [Chelmsford Spring Game Jam](http://gamejam.cmspace.org)   
+###Special events
 4th July - Chelmsford Makerspace's birthday.  
 26th May - Family Game Afternoon. (Ideas Hub)  
 
