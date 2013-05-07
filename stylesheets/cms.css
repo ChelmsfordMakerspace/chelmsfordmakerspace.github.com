@@ -683,6 +683,7 @@ div.alert-box a.close:hover, div.alert-box a.close:focus { opacity: 0.4; }
 .label.alert { background-color: #c60f13; }
 .label.success { background-color: #5da423; }
 .label.secondary { background-color: #e9e9e9; color: #505050; }
+.label.hub { background-color: #000000; }
 
 /* Tooltips ---------------------- */
 .has-tip { border-bottom: dotted 1px #cccccc; cursor: help; font-weight: bold; color: #333333; }
