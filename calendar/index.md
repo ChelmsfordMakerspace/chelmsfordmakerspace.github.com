@@ -18,26 +18,6 @@ Free for monthly paying members.
 ##Workshops
 ---
 
-###Getting to grips with your smartphone <span class="label secondary">Trial workshop</span>
-#####Thursday the 9th May, 7pm - 8pm at the [<span class="label hub">Ideas Hub</span>](http://ideashubchelmsford.org/)
-
-Today's smartphones have more power than a home computer did 10 years ago, but many people only use a fraction of the features which their smartphone offers.  
-
-In this workshop we'll be showing you how to make the most of your smartphone. Starting by working out what everyone already knows and what they would like to know. Then going into detail about topics such as messaging, documents, music, video and photos.
-
-Recommended for adults.  
-Donations between £2 and £10 depending on means and value.
-
-###Raspberry Pi (An introduction to)
-#####Friday the 10th May, 3:30pm to 5:30pm at the [<span class="label hub">Ideas Hub</span>](http://ideashubchelmsford.org/)
-
-Learn how to program and make cool projects using the Raspberry Pi, a £25 credit card sized computer.  
-
-All abilities and ages 13+ welcome.  
-
-£5-10 Adult donation depending on means and value.  
-£3 for under 18's.
-
 ###Getting started with social media <span class="label secondary">Trial workshop</span>
 #####Thursday the 16h May, 7pm to 8pm at the [<span class="label hub">Ideas Hub</span>](http://ideashubchelmsford.org/)
 
