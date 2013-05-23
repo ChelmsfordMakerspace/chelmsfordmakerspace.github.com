@@ -18,13 +18,6 @@ Free for monthly paying members.
 ##Workshops
 ---
 
-###Getting started with social media <span class="label secondary">Trial workshop</span>
-#####Thursday the 16h May, 7pm to 8pm at the [<span class="label hub">Ideas Hub</span>](http://ideashubchelmsford.org/)
-
-Social Media is rapidly changing the way we communicate. In this workshop we'll be teaching you the basics of setting up and best practices of using sites like Facebook, Twitter and YouTube for personal and business use.
-
-£2.00 - £10.00 depending on means and value.
-
 ###Family Game Afternoon <span class="label secondary">Trial event</span>
 #####Sunday the 26th May, 12 - 4pm at the [<span class="label hub">Ideas Hub</span>](http://ideashubchelmsford.org/)
 
