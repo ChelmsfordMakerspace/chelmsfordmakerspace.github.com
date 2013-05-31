@@ -18,14 +18,7 @@ Free for monthly paying members.
 ##Workshops
 ---
 
-###Family Game Afternoon <span class="label secondary">Trial event</span>
-#####Sunday the 26th May, 12 - 4pm at the [<span class="label hub">Ideas Hub</span>](http://ideashubchelmsford.org/)
-
-Come along and try out some family friendly games for all ages. We'll be offering advice, answering questions and letting you try out some of the latest all-ages games.
-
-All ages. Children must be accompanied by an adult.
-
-Event is free but please support the makerspace and hub through the café and donations if we have helped.
+None right now.
 
 ##Other dates
 ---
