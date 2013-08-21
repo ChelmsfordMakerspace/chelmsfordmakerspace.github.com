@@ -18,7 +18,9 @@ Free for monthly paying members.
 ##Workshops
 ---
 
-None right now.
+####[Ideas Festival workshop - The Internet of Things](/news/IF2013-IoT.html)
+**Saturday the 2nd November, 4 to 6pm** at the [Ideas Hub](http://ideashubchelmsford.org/).  
+Bring code into the physical world with microcontrollers, sensors, servos and lights. In this session we'll be getting hands on with simple electronics to bring the internet to life, connecting the virtual and physical worlds. Registration is required (but not yet open) at the [Ideas Festival website](http://changingchelmsford.org/IF2013/).
 
 ##Other dates
 ---
