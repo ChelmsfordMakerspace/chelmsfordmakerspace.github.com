@@ -7,11 +7,13 @@ group: navigation
 #Calendar <small>Workshops and events.</small>
 ---
 
-###Weekly hack night
+###Monthly hack night
 
 Come along and chat, get advice, give advice, talk about what you're doing, listen to what others are doing or just learn something new!
 
-£2.50+ donation to cover Scout Hut hire fees requested but not required.  
+Monthly hack night takes place on the first Tuesday of every month.
+
+£5 donation to cover Scout Hut hire fees requested but not required.  
 Free for monthly paying members.
 
 ##Workshops
