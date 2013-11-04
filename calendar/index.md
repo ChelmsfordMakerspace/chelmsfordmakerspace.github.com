@@ -16,12 +16,12 @@ Monthly hack night takes place on the first Tuesday of every month.
 £5 donation to cover Scout Hut hire fees requested but not required.  
 Free for monthly paying members.
 
-##Workshops
+##Events
 ---
 
-####[Ideas Festival workshop - The Internet of Things](/news/IF2013-IoT.html)
-**Saturday the 2nd November, 4 to 6pm** at the [Ideas Hub](http://ideashubchelmsford.org/).  
-Bring code into the physical world with microcontrollers, sensors, servos and lights. In this session we'll be getting hands on with simple electronics to bring the internet to life, connecting the virtual and physical worlds. Registration is required (but not yet open) at the [Ideas Festival website](http://changingchelmsford.org/IF2013/).
+####[KEGS DigIT Festival](http://digitfestival.wix.com/home)
+**Saturday 9nd November, 10AM to 4PM** at [King Edward VI Grammer School](http://www.kegs.org.uk).  
+We'll be talking about and showing off the home built RepRap 3D printer at our stand as well as walking around. Come and say hi! Free registration for the event is required [here](http://www.eventbrite.co.uk/event/5370509338).
 
 ##Other dates
 ---
