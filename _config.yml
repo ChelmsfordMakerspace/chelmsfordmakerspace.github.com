@@ -3,3 +3,4 @@ permalink: none
 exclude: ['Rakefile', 'README.md', 'config.rb', 'CNAME']
 ftp_host: chelmsfordmakerspace.co.uk
 ftp_dir: /
+markdown: kramdown
