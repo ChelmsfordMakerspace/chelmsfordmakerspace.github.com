@@ -22,5 +22,7 @@ None scheduled right now!
 
 ##Other dates
 ---
+
 ####Chelmsford Makerspace's birthday.
+
 #####4th July
