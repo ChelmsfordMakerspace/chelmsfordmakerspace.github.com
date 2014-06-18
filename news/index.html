@@ -2,12 +2,15 @@
 layout: default
 title: News
 ---
+
 <div class="twelve columns">
 <h1>News <small>Things that have been or will be going on.</small>
 <hr />
 </div>
+</div>
 
     <!-- Content -->
+	<div class="row">
     <div class="nine columns centered" role="content">
         {% for post in site.posts %}      
          {% if post.categories contains 'news' %}
